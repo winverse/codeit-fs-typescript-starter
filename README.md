@@ -6,4 +6,4 @@
 
 `package.json`, `tsconfig.json`, `src/main.ts`와 이후 실습의 정답은 포함하지
 않습니다. 챕터별 문제 해결 실습은 별도의
-`codeit-fs-typescript-basic-practice` 저장소에서 진행합니다.
+`codeit-fs-typescript-practice` 저장소에서 진행합니다.
